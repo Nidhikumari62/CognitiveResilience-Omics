@@ -1,0 +1,5 @@
+Analysis,N,Control,Resilient,Symptomatic_AD,Result
+Multi-omics matched cohort,21.0,,,,21 participants with both RNA and proteomics
+Three-group PCA comparison,21.0,,,,No PCA feature significant after FDR correction
+Resilient vs Symptomatic AD PCA,,0.0,,,No PCA feature significant after FDR correction
+RNA–proteomics latent correlation,21.0,,,,"Strongest Spearman rho = 0.384, p = 0.085"

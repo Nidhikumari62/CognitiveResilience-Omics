@@ -1,0 +1,2 @@
+Model,CV_Accuracy,CV_Balanced_Accuracy,CV_Macro_F1,CV_ROC_AUC,Test_Accuracy,Test_Balanced_Accuracy,Test_F1_Resilient,Test_ROC_AUC
+RNA-only,0.75,0.661,0.657,0.715,0.733333,0.614286,0.4,0.748571

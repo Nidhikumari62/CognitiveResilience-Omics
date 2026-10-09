@@ -1,0 +1,7 @@
+Stage,Cohort,N,Description
+1,ROSMAP clinical dataset,3584,Participants with clinical and neuropathologic data
+2,Pathology-defined study cohort,830,"203 Control, 135 Resilient, 492 Symptomatic AD"
+3,RNA analysis cohort,307,"DLPFC bulk RNA expression; 15,582 genes"
+4,RNA resilience cohort,221,51 Resilient vs 170 Symptomatic AD
+5,Proteomics cohort,83,"16 Control, 15 Resilient, 52 Symptomatic AD"
+6,Paired multi-omics cohort,43,"4 Control, 7 Resilient, 32 Symptomatic AD"

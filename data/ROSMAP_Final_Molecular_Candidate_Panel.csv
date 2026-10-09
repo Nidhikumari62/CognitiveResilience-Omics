@@ -1,0 +1,26 @@
+Priority_Rank,Omics,Candidate,Evidence_Type
+1,RNA,KLF4,Stable across 5 CV folds
+2,RNA,CMTM3,Stable across 5 CV folds
+3,RNA,PLEKHB1,Stable across 5 CV folds
+4,RNA,ARRDC2,Stable across 5 CV folds
+5,RNA,SLC6A12,Stable across 5 CV folds
+6,RNA,KANK2,Stable across 5 CV folds
+7,RNA,TGFB1I1,Stable across 5 CV folds
+8,RNA,KLF2,Stable across 5 CV folds
+9,RNA,PRELP,Stable across 5 CV folds
+10,RNA,ANKRD40,Stable across 5 CV folds
+11,RNA,CARHSP1,Stable across 5 CV folds
+12,RNA,CAVIN1,Stable across 5 CV folds
+13,RNA,JUP,Stable across 5 CV folds
+14,RNA,CPM,Stable across 5 CV folds
+15,RNA,SMTN,Stable across 5 CV folds
+1,Proteomics,CAMK1D,Stable across 5 CV folds; proteomic statistics exploratory
+2,Proteomics,TIMM13,Stable across 5 CV folds; proteomic statistics exploratory
+3,Proteomics,SMS,Stable across 5 CV folds; proteomic statistics exploratory
+4,Proteomics,RAB10,Stable across 5 CV folds; proteomic statistics exploratory
+5,Proteomics,PLD3,Stable across 5 CV folds; proteomic statistics exploratory
+6,Proteomics,SUOX,Stable across 5 CV folds; proteomic statistics exploratory
+7,Proteomics,SNX9,Stable across 5 CV folds; proteomic statistics exploratory
+8,Proteomics,RPL27,Stable across 5 CV folds; proteomic statistics exploratory
+9,Proteomics,DIRAS2,Stable across 5 CV folds; proteomic statistics exploratory
+10,Proteomics,ARL3,Stable across 5 CV folds; proteomic statistics exploratory

@@ -1,0 +1,18 @@
+Analysis,Dataset,N,Main_Result
+Clinical cohort,ROSMAP clinical,3584,Clinical dataset containing cognitive diagnoses
+Final pathology-defined cohort,Clinical,830,"203 Control, 135 Resilient, 492 Symptomatic AD"
+RNA cohort,ROSMAP DLPFC bulk RNA,307,"Expression matrix with 15,582 genes"
+RNA binary resilience cohort,RNA,221,51 Resilient vs 170 Symptomatic AD
+RNA 3-class ML,RNA,307,Accuracy 0.645; balanced accuracy 0.573; macro F1 reported in notebook
+RNA binary ML,RNA,221,CV ROC-AUC 0.715; held-out ROC-AUC 0.749
+RNA stable feature selection,RNA,182,182 features selected in all 5 cross-validation folds
+RNA pathway analysis,RNA,180,Themes included signaling and cell movement
+Proteomics cohort,TMT proteomics,83,"52 Symptomatic AD, 15 Resilient, 16 Control"
+Proteomics feature matrix,TMT proteins,83,"3,537 quantified protein features"
+Proteomics stable feature selection,Proteomics,109,109 proteins selected in all 5 cross-validation folds
+Proteomics exploratory statistics,Proteomics,109,63 of 109 stable proteins had FDR < 0.05
+Proteomics pathway analysis,Proteomics,109,Enrichment included vesicle and membrane processes
+Paired multi-omics cohort,RNA + Proteomics,43,"32 Symptomatic AD, 7 Resilient, 4 Control"
+RNA–protein PCA correlation,Paired multi-omics,43,No significant RNA–protein PCA correlations
+Multi-omics PCA group comparison,Paired multi-omics,43,No PCA component showed significant group separation
+Closest PCA group-level trend,Paired multi-omics,43,"Protein PC3: H = 5.10, p = 0.078"
